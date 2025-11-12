@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sharmarahul09/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sharmarahul09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Sharmarahul09/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Sharmarahul09/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
@@ -19,4 +20,20 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sharmarahul09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sharmarahul09/leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sharmarahul09/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sharmarahul09/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sharmarahul09/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
